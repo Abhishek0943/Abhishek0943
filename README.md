@@ -1,7 +1,7 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvGbyOO0S-u8-WVMcp5QPkEvZWgBOknytmQ&usqp=CAU)
+<img src="https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png" alt="abhishek0943" width="100%" />
 <h1 align="center">Hi 👋, I'm Abhishek Pundir</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek0943&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek0943" /> </p>
 
